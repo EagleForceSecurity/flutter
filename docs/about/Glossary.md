@@ -1,7 +1,7 @@
 Here are some terms that we use in the Flutter project and what they mean:
 
 <!-- Please keep this alphabetical. -->
-
+   
 - **Cold restart**. Quitting and restarting an application and its associated runtime. This contrasts with hot restart, where the process and/or runtime would not be terminated.
 
 - **Dynamic extension loading**. The ability to download some Dart code that wasn't written when the app was first published, which adds a new feature to the app. This could be done on the fly. It may require the core app to be larger since we can't know ahead of time what is needed by each future extension, and therefore can't do tree shaking (whole program optimization).
