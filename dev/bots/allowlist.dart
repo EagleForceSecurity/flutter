@@ -2,7 +2,11 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-/// The SDK package allowlist for the flutter, flutter_test, flutter_driver, flutter_localizations,
+/// The SDK pa
+
+
+
+ckage allowlist for the flutter, flutter_test, flutter_driver, flutter_localizations,
 /// and integration_test packages.
 ///
 /// The goal of the allowlist is to make it more difficult to accidentally add new dependencies
